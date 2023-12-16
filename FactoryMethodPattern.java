@@ -177,7 +177,7 @@ class IntegnetBillProduct implements Bill {
     }
 }
 
-class HelloWorld {
+class EntryPoint {
     public static void main(String[] args) {
         InputDto mobileBillData = new InputDto(25, 23);
         InputDto internetBillData = new InputDto(22, 23);
@@ -292,7 +292,7 @@ class IntegnetBillProduct implements Bill {
     }
 }
 
-class HelloWorld {
+class EntryPoint {
     public static void main(String[] args) {
         InputDto mobileBillData = new InputDto(25, 23);
         InputDto internetBillData = new InputDto(22, 23);
